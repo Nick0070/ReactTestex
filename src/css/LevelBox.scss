@@ -1,0 +1,312 @@
+@media (min-width: 1200px){
+    .skils{
+      display: flex;
+      flex-direction: row;
+
+      .level{
+        color: #FFF;
+        margin-top: 10px;
+        padding-top: 20px;
+        font-size: x-large;
+        margin-left: 130px;
+      }
+      .count{
+        color: #FFF;
+        padding-top: 30px;
+        margin-left: 100px;
+        font-size: x-large;
+      } 
+    }
+
+    .skil{
+      height: 35px;
+      display: flex;
+      flex-direction: row;
+
+      .level2{
+        width: 200px;
+        color: #FFF;
+        font-size: 20px;
+        margin-top: 10px;
+        padding-top: 20px;
+        margin-left: 20px;
+      }
+        .count2{
+          color: #fff;
+          font-size: 20px;
+          padding-top: 30px;
+          margin-left: auto;
+          margin-right: auto;
+        }
+
+        .up{
+          padding-top: 50px;
+          padding-right: 100px;
+            
+          .btn_plus{
+            border: 0px;
+            height: 10px;
+            width:  20px;
+            color: #FFF;
+            font-size: small;
+            border-radius: 10px;
+            background-color: rgba(19, 19, 131, 0.677);
+          }
+        }
+      
+          .level3{
+            width: 200px;
+            color: #FFF;
+            font-size: 20px;
+            margin-top: 10px;
+            padding-top: 20px;
+            margin-left: 50px;
+          }
+            .count3{
+              color: #FFF;
+              font-size: 20px;
+              padding-top: 30px;
+              margin-left: auto;
+              margin-right: auto;
+              padding-right: 30px;
+            }
+
+            .up{
+              padding-top: 30px;
+              padding-right: 100px;
+            
+              .btn_plus{
+                border: 0px;
+                height: 30px;
+                width:  70px;
+                color: #FFF;
+                font-size: small;
+                border-radius: 10px;
+                background-color: rgba(19, 19, 131, 0.677);
+              }
+              .btn_plus:hover{ 
+                background-color: rgb(22, 22, 161);
+              }
+          }
+        
+          .count4{
+            color: #FFF;
+            font-size: 20px;
+            padding-top: 30px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-right: 120px;
+          }
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1199px) {
+  .skils{
+    display: flex;
+    flex-direction: row;
+
+    .level{
+      color: #FFF;
+      margin-top: 10px;
+      padding-top: 20px;
+      font-size: small;
+      margin-left: 130px;
+    }
+    .count{
+      color: #FFF;
+      padding-top: 30px;
+      margin-left: 100px;
+      font-size: small;
+    } 
+  }
+
+  .skil{
+    height: 35px;
+    display: flex;
+    font-size: small;
+    flex-direction: row;
+
+    .level2{
+      width: 200px;
+      color: #FFF;
+      font-size: small;
+      margin-top: 0px;
+      padding-top: 20px;
+      margin-left: 20px;
+    }
+      .count2{
+        color: #fff;
+        font-size: small;
+        padding-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-right: 30px;
+      }
+
+      .up{
+        padding-top: 50px;
+        padding-right: 100px;
+          
+        .btn_plus{
+          border: 0px;
+          height: 10px;
+          width:  20px;
+          color: #FFF;
+          font-size: small;
+          border-radius: 10px;
+          background-color: rgba(19, 19, 131, 0.677);
+        }
+      }
+    
+        .level3{
+          width: 200px;
+          color: #FFF;
+          font-size: small;
+          margin-top: 10px;
+          padding-top: 10px;
+          margin-left: 50px;
+        }
+          .count3{
+            color: #FFF;
+            font-size: small;
+            padding-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-right: 30px;
+          }
+
+          .up{
+            padding-top: 10px;
+            padding-right: 100px;
+          
+            .btn_plus{
+              border: 0px;
+              height: 30px;
+              width:  70px;
+              color: #FFF;
+              font-size: small;
+              border-radius: 10px;
+              background-color: rgba(19, 19, 131, 0.677);
+            }
+            .btn_plus:hover{ 
+              background-color: rgb(22, 22, 161);
+            }
+        }
+      
+        .count4{
+          color: #FFF;
+          font-size: small;
+          padding-top: 20px;
+          margin-left: auto;
+          margin-right: auto;
+          padding-right: 120px;
+        }
+  }
+}
+
+
+
+@media (min-width: 413px) and (max-width: 799px) {
+  .skils{
+    display: flex;
+    flex-direction: row;
+
+    .level{
+      color: #FFF;
+      margin-top: 10px;
+      padding-top: 20px;
+      font-size: small;
+      margin-left: 130px;
+    }
+    .count{
+      color: #FFF;
+      padding-top: 30px;
+      margin-left: 100px;
+      font-size: small;
+    } 
+  }
+
+  .skil{
+    height: 35px;
+    display: flex;
+    font-size: small;
+    flex-direction: row;
+
+    .level2{
+      width: 200px;
+      color: #FFF;
+      font-size: small;
+      margin-top: 0px;
+      padding-top: 20px;
+      margin-left: 20px;
+    }
+      .count2{
+        color: #fff;
+        font-size: small;
+        padding-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-right: 30px;
+      }
+
+      .up{
+        padding-top: 50px;
+        padding-right: 100px;
+          
+        .btn_plus{
+          border: 0px;
+          height: 10px;
+          width:  20px;
+          color: #FFF;
+          font-size: small;
+          border-radius: 10px;
+          background-color: rgba(19, 19, 131, 0.677);
+        }
+      }
+    
+        .level3{
+          width: 200px;
+          color: #FFF;
+          font-size: small;
+          margin-top: 10px;
+          padding-top: 10px;
+          margin-left: 50px;
+        }
+          .count3{
+            color: #FFF;
+            font-size: small;
+            padding-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-right: 30px;
+          }
+
+          .up{
+            padding-top: 10px;
+            padding-right: 100px;
+          
+            .btn_plus{
+              border: 0px;
+              height: 30px;
+              width:  70px;
+              color: #FFF;
+              font-size: small;
+              border-radius: 10px;
+              background-color: rgba(19, 19, 131, 0.677);
+            }
+            .btn_plus:hover{ 
+              background-color: rgb(22, 22, 161);
+            }
+        }
+      
+        .count4{
+          color: #FFF;
+          font-size: small;
+          padding-top: 20px;
+          margin-left: auto;
+          margin-right: auto;
+          padding-right: 120px;
+        }
+  }
+
+}

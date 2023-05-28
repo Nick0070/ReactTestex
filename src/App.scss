@@ -1,0 +1,182 @@
+
+@media (min-width: 1200px){
+    .main{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        overflow: hidden;
+
+            .vidio{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+            .content{
+                top: 0;
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                flex-direction: column;
+
+                .left{
+                    width: 50%;
+                    height: 800px;
+                    float: left;
+                    overflow: hidden;
+                }
+
+                .right{
+                    width: 50%;
+                    height: 800px;
+                    overflow: hidden;
+
+                    .box2{
+                        width: 600px;
+                        height: 770px;
+                        margin-top: 20px;
+                        margin-left: auto;
+                        margin-right: 20px;
+                        border-radius: 80px;
+                        background-color: #162d6ccf;
+
+                        .skils2{
+                            display: flex;
+                            flex-direction: column;
+                            .line{
+                                height: 2px;
+                                width: 400px;
+                                display: flex;
+                                margin-top: 30px;
+                                margin-left: 100px;
+                                background-color: black;
+                                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+                            }
+                        }
+                    }
+                }
+            }
+    }
+}
+
+  @media (min-width: 800px) and (max-width: 1199px) {
+
+    .main{
+        width: 100%;
+        height: 100%;
+        display: flex;
+    
+            .vidio{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+            .content{
+                top: 0;
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                flex-direction: column;
+    
+                .left{
+                    width: 50%;
+                    height: 800px;
+                    float: left;
+                    overflow: hidden;
+                }
+    
+                .right{
+                    width: 50%;
+                    height: 800px;
+                    overflow: hidden;
+    
+                    .box2{
+                        width: 400px;
+                        height: 700px;
+                        margin-top: 20px;
+                        margin-left: auto;
+                        margin-right: 20px;
+                        border-radius: 80px;
+                        background-color: #162d6ccf;
+    
+                        .skils2{
+                            display: flex;
+                            flex-direction: column;
+                            .line{
+                                height: 2px;
+                                width: 350px;
+                                display: flex;
+                                margin-top: 10px;
+                                margin-left: 20px;
+                                background-color: black;
+                                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+                            }
+                        }
+                    }
+                }
+            }
+      }
+
+}
+
+@media (min-width: 413px) and (max-width: 799px) {
+
+    .main{
+        width: 100%;
+        height: 100%;
+        display: flex;
+
+            .vidio{
+                width: 100%;
+                height: 200%;
+                object-fit: cover;
+            }
+            .content{
+                top: 0;
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                flex-direction: column;
+    
+                .left{ 
+                }
+                .right{
+                    .box2{
+                        width: 400px;
+                        height: 700px;
+                        margin-top: 20px;
+                        margin-left: auto;
+                        margin-right: 5px;
+                        border-radius: 80px;
+                        background-color: #162d6ccf;
+    
+                        .skils2{
+                            display: flex;
+                            flex-direction: column;
+                            .line{
+                                height: 2px;
+                                width: 350px;
+                                display: flex;
+                                margin-top: 10px;
+                                margin-left: 20px;
+                                background-color: black;
+                                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+                            }
+                        }
+                    }
+                }
+            }
+      }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

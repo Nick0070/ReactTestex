@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/game/static/css/main.d73eabac.css",
+    "main.js": "/game/static/js/main.23477591.js",
+    "static/media/VideoBg.mp4": "/game/static/media/VideoBg.5c368a75e9203019f188.mp4",
+    "static/media/kosm.gif": "/game/static/media/kosm.79463b676d6e54656f9c.gif",
+    "index.html": "/game/index.html",
+    "main.d73eabac.css.map": "/game/static/css/main.d73eabac.css.map",
+    "main.23477591.js.map": "/game/static/js/main.23477591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d73eabac.css",
+    "static/js/main.23477591.js"
+  ]
+}
